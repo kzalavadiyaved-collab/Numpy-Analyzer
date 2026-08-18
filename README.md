@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```
 ## video demo
 
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1R8KoOQaT0SF0d1cjyGDrNKUo56d0MAgK/view?usp=sharing)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]([https://drive.google.com/file/d/1R8KoOQaT0SF0d1cjyGDrNKUo56d0MAgK/view?usp=sharing](https://drive.google.com/file/d/15WUJzGNh76TD76_nb9KsDOhJhG2axrXT/view?usp=drive_link))
 ### Usage
 ```bash
 python main.py
